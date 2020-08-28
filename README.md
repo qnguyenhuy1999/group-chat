@@ -1,4 +1,4 @@
-# group-chat
+# Group Chap App
 
 ## Features
 - Login with google

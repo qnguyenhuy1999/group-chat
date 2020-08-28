@@ -1,0 +1,71 @@
+.main-header {
+  background: var(--main-header);
+  display: flex;
+  padding: 10px;
+}
+
+.main-header .center {
+  flex: 0.9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 14%;
+}
+
+.main-header .anticon {
+  font-size: 20px;
+  color: var(--color-main-header);
+}
+
+.search {
+  width: 40%;
+  display: flex;
+  position: relative;
+}
+
+.search input {
+  border-radius: 0.25rem;
+  background: #431e44;
+  color: #fff;
+}
+
+.icon-search {
+  position: absolute;
+  right: 6px;
+  top: 5px;
+}
+
+.main-header .flex-end {
+  flex: 0.1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.main-header .avatar {
+  width: 30%;
+}
+
+.rooms-search {
+  position: absolute;
+  width: 100%;
+  background: #dedede;
+  top: 32px;
+}
+
+.rooms-search > .room-item {
+  display: flex;
+  padding: 5px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid #fff;
+}
+
+.rooms-search > .room-item > div {
+  margin-left: 5px;
+  color: blue;
+  cursor: pointer;
+}
+
+.rooms-search > .room-item:last-child {
+  border-bottom: 0;
+}

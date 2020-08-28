@@ -1,0 +1,17 @@
+.sidebar-options .item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 7px;
+  cursor: pointer;
+}
+
+.sidebar-options .item > h3 {
+  margin-left: 10px;
+}
+
+.sidebar-options .item a {
+  color: #fff;
+}
+.sidebar-options .item > h3.active a {
+  color: #5cf0f8;
+}

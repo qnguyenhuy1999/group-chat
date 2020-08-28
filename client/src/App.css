@@ -1,0 +1,63 @@
+:root {
+  --main-header: #350d36;
+  --color-main-header: #c1b4c1;
+  --main-sidebar: #3f0e40;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+*,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+body {
+  overflow: hidden;
+}
+
+.mr-12 {
+  margin-right: 12px;
+}
+
+.ml-12 {
+  margin-left: 12px;
+}
+
+.main-content {
+  display: flex;
+  height: 100vh;
+}

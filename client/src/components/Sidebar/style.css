@@ -1,0 +1,26 @@
+.main-sidebar {
+  flex: 0.2;
+  background: var(--main-sidebar);
+  color: #fff;
+  padding: 10px;
+}
+
+.sidebar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #461747;
+  padding-bottom: 10px;
+}
+
+.sidebar-header > .anticon-edit {
+  border-radius: 50%;
+  padding: 10px !important;
+  background: #fff;
+  color: var(--main-sidebar);
+}
+
+.sidebar-options {
+  padding: 10px 0;
+  border-bottom: 2px solid #461747;
+}

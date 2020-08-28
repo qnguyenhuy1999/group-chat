@@ -1,0 +1,19 @@
+.message-container {
+  flex: 0.8;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 20px;
+}
+
+.show-message {
+  flex: 0.91;
+  overflow-y: scroll;
+}
+
+.input {
+  margin-top: 15px;
+}
+
+.input > input {
+  border-color: #747474;
+}

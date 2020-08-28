@@ -1,0 +1,26 @@
+.message-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.message-item > .avatar {
+  width: 4%;
+  margin-right: 11px;
+}
+
+.message-item .header {
+  display: flex;
+  align-items: center;
+}
+
+.message-item .name {
+  color: #000;
+  margin-right: 5px;
+  font-size: 15px;
+}
+
+.message-item .time {
+  font-size: 12px;
+  color: #bebebe;
+}

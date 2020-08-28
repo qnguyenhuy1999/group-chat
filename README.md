@@ -12,7 +12,7 @@ Open your terminal and type follow this:
 - Cd server -> yarn -> create new file .env like instruction .env.example -> yarn dev
 
 ## Demo online
-Client App: https://group-chat-9cb45.web.app/
+Client App: https://group-chat-9cb45.web.app/  
 Api App: https://group-chat-app-codersx.herokuapp.com/
 
 ### Error

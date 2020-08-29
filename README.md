@@ -16,5 +16,5 @@ Client App: https://group-chat-9cb45.web.app/
 Api App: https://group-chat-app-codersx.herokuapp.com/
 
 ### Error
-- Must be login 2 times to can login into app
+- If you are new user, you must be login 2 times to can login into app.
 

@@ -17,4 +17,5 @@ Api App: https://group-chat-app-codersx.herokuapp.com/
 
 ### Error
 - If you are new user, you must be login 2 times to can login into app.
+- And first login, reload page again to can chat.
 
